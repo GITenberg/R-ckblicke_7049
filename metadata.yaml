@@ -1,0 +1,30 @@
+_repo: R-ckblicke_7049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grünfeld, Walter
+    alias: Grunfeld, Walter
+    birthdate: 1908
+    deathdate: 1988
+    gutenberg_agent_id: '2323'
+    url: http://www.gutenberg.org/2009/agents/2323
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7049'
+language: de
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Jews -- Biography'
+- !lcc 'CT'
+- !lcsh 'Germany -- Emigration and immigration'
+- !lcc 'PT'
+- !lcsh 'Autobiographies'
+- !lcsh 'Authors, German -- 20th century'
+- GITenberg
+title: Rückblicke
+url: http://www.gutenberg.org/ebooks/7049
